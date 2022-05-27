@@ -1,0 +1,63 @@
+#encabezado1 h1{
+	color:blue;
+	text-align:right;
+	
+}
+body{
+	background-color:#89ECE5;
+}
+#texto{
+	padding-left:20px;
+	padding-right:20px;
+	color:yellow;
+	background-color:blue;
+	float:left;
+	margin-left:100px;
+	margin-right:auto;
+}
+#tabla1{
+	background-color:#679693;
+	margin-left:650px;
+	width:375px;
+	height:230px;
+}
+#bloque3{
+	margin-top:100px;
+	float:left;
+	background-color:red;
+	width:500px;
+	height:310px;
+}
+#parrafo2{
+	padding-left:170px;
+}
+#TT{
+	padding-left:110px;
+}
+#imagen{
+	float:left;
+	margin-top:100px;
+	margin-left:10px;
+}
+#imagen2{
+	float:left;
+	margin-top:100px;
+	margin-left:50px;
+}
+#bloque2{
+	padding-left:20px;
+	background-color:green;
+	float:left;
+	margin-top:110px;
+	width: 350px;
+    height:225px;
+}
+#L1{
+	color:purple;
+}
+#L2{
+	color:red;
+}
+#lista{
+	border:15px dotted yellow;
+}
